@@ -1,1 +1,5 @@
-Readme file for 0x03-git task
+# 0x03-git task
+
+- bash
+- c
+- js
