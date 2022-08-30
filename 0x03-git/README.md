@@ -1,5 +1,5 @@
 # 0x03-git task
 
-- bash
-- c
-- js
+-creating a new branch
+
+`git checkout -b <branch-name>`
